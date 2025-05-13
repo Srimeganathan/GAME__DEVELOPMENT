@@ -16,6 +16,7 @@ Step 3 : Get the choice from the user.
 Step 4: Get the parameters for transformation.
 
 Step 5 : Perform the transformation.
+**program**
 ~~~
 #include<graphics.h>
 #include<stdio.h>
@@ -267,6 +268,7 @@ int main()
 }
 
 ~~~
+**output**
 
 Step 6 : Draw the image.
 ![441066055-01765430-9c1c-4037-bf64-5b7baf57b556](https://github.com/user-attachments/assets/a2fe7240-be72-456e-8f1d-9bdb6d58e1a1)
@@ -284,8 +286,7 @@ Step 7 : Stop the program.
 
 
 
+**Result :**
 
-**Output :**
 Successfully completed a C program to implement 2D transformation of image.
 
-**Result :**
